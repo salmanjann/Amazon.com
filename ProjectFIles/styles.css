@@ -119,3 +119,26 @@
 .nav-cart p {
     align-self: center;
 }
+
+/*panel*/
+.panel {
+    background-color: #222f32;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px
+}
+
+.panel-options {
+    width: 70%;
+}
+
+.ops-text {
+    font-size: 0.95rem;
+}
